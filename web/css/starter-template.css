@@ -1,0 +1,26 @@
+body {
+
+	background-image: url("../fondo.jpg");
+	width: 105%;
+  padding-top: 50px;
+  color:gray;
+}
+.starter-template {
+ 
+  text-align: center;
+}
+
+input[type="email"]:focus:invalid{
+	border: 1px solid red;
+	box-shadow: 0 0 5px red;
+       
+}
+.form-group{
+	width:45%;
+	
+	
+}
+.pull-right{
+	font: black;
+
+}
